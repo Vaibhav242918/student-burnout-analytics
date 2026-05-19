@@ -59,6 +59,10 @@ Includes:
 ## Performance Analytics
 ![Performance](performance_analytics.png)
 
+## 🎥 Dashboard Demo Video
+
+[Watch Project Demo](https://www.linkedin.com/posts/vaibhav-waghole-0b2180341_powerbi-dataanalytics-businessintelligence-ugcPost-7462563223418859521-YRd6?utm_source=share&utm_medium=member_android&rcm=ACoAAFWh5IYBJv740tV69XmjsSuFzplxcV5LKYg)
+
 ---
 
 # 🚀 Key Insights
